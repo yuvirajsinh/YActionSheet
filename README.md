@@ -1,3 +1,5 @@
+![License](http://img.shields.io/badge/license-MIT-orange.png)
+
 # YActionSheet
 Custom Selectable Action Sheet. YActionSheet provides you ability to see your selected option in ActionSheet view.
 
